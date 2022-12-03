@@ -1,6 +1,6 @@
 <strong>This project was carried out during a course on the Alura platform</strong>
 
-React - First Web Project
+React - First Web Project  (available in: https://react-first-web-project.vercel.app/)
 
 In this introductory course to React, I created a page with header component, cards, research section and latest releases.
 
